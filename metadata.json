@@ -1,0 +1,6 @@
+{
+  "name": "Smart Meal & Activity Assistant",
+  "description": "AI-based food portion recommendation using BMI and daily activity level to eliminate energy mismatch and hostel mess food waste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
